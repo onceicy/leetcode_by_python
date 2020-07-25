@@ -1,4 +1,4 @@
-class Solution2:
+class Solution20:
     def isValid(self, s: str) -> bool:
         stack = ['#']
         for temp in s:
