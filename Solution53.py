@@ -1,4 +1,4 @@
-class Solution:
+class Solution53:
     def maxSubArray(self, nums: List[int]) -> int:
         sum = 0
         Max = nums[0]
